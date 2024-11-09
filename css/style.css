@@ -1,0 +1,83 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #E9F1FC;
+}
+
+.header-perfil{
+    position: relative;
+    top: 50%;
+    text-align: center;
+}
+
+#fotoperfil {
+    border-radius: 50%;
+    border: 10px solid;
+    border-color: #4161E1;
+}
+
+h1 {
+    font-family: "Alumni Sans Collegiate One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    color: #E9F1FC;
+    font-style: italic;
+    background-color: #4161E1;
+    padding-left: 5px;
+}
+
+
+.contatos{
+    padding: 10px 10px 10px 10px;
+}
+
+#item-contato{
+    color: #4161E1;
+    font-weight: bold;
+}
+
+a:hover{
+    color: red;
+}
+
+div{
+    padding: 10px 10px 10px 10px;
+}
+
+ol{
+    padding: 10px 10px 10px 30px;
+}
+
+.ods{
+    width: 800px;
+    height: 100px;
+}
+
+.fig-ods{
+    float: left;
+    padding: 0 20px 0 0;
+}
+
+footer {
+    color: #E9F1FC;
+    font-weight: bold;
+    background-color: #4161E1;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+}
+
+.conteudo {
+    padding-left: 20px;
+}
+
+#carreira-lista{
+    padding-left: 30px;
+}
